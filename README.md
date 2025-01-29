@@ -1,12 +1,9 @@
-# 0x04. Files manager
+# Files Manager
 
-This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
+## Requirements
 
-The objective is to build a simple platform to upload and view files:
+### Applications
 
--   User authentication via a token
--   List all files
--   Upload a new file
--   Change permission of a file
--   View a file
--   Generate thumbnails for images
++ Node.js
++ Yarn (the package manager/resource negotiator)
+
